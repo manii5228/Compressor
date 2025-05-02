@@ -59,5 +59,5 @@ pip install Pillow
         or
 pip install -r needs.txt
 ```
-##📄 License
+## 📄 License
 This project is open-source and free to use under the MIT License.
