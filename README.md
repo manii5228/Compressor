@@ -31,6 +31,7 @@ A Python-based tool that compresses and converts `.jpg` and `.png` images into `
 ├── image2.webp
 
 └── ...
+
 app.py
 
 You place your original images in `input_images/`, and compressed WebP images will be saved in `output_images/`.
